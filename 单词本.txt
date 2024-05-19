@@ -8,3 +8,10 @@ space\太空；空
 用户\User
 桌子\Desk
 西边；西\east
+from\从
+load\加载
+loading\正在加载
+animal\动物
+ant\蚂蚁
+and\和
+always\总是
