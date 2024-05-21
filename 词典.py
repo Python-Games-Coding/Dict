@@ -3,7 +3,7 @@ from tkinter import messagebox, simpledialog
 import sys
 
 class menu2_work:
-    def EXIT():
+     def EXIT():
         with open("单词本.txt", "w", encoding="utf-8") as file:
             for word, translation in dictionary.items():
                 file.write(f"{word}\\{translation}\n")
