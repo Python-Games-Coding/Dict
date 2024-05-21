@@ -15,3 +15,4 @@ animal\动物
 ant\蚂蚁
 and\和
 always\总是
+Canada\加拿大
